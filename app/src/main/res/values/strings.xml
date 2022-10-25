@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TryApiRequest</string>
+    <string name="main">Выберите API</string>
+    <string name="ins">Злое API</string>
+    <string name="insbtn">Призвать оскорбление</string>
+    <string name="quotes">Цитаты великих людей</string>
+    <string name="summonquote">Призвать цитату</string>
+    <string name="qu">Цитаты</string>
+    <string name="osk">Оскорбления</string>
+</resources>
